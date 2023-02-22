@@ -2,7 +2,7 @@ def area_of_circle(radius):
     result = 3.14 * radius * radius
     return result
 
-
+""""Modeule """
 # method to calculate area of triangle
 def area_of_triangle(base, height):
     result = (base * height) / 2
