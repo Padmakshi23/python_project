@@ -8,4 +8,5 @@ d.get("https://google.com")
 
 print(d.title)
 
-time.sleep(10)
+time.sleep(5)
+
